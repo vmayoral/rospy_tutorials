@@ -3,7 +3,7 @@ rospy_tutorials
 
 This repository contains the rospy_tutorials code and the instructions to cross-compile this code to an embedded system using Angstrom.
 
-For information about the ROS python API tutorials code (check the wiki at http://ros.org/wiki/rospy_tutorials?distro=groovy)
+For information about the ROS python API tutorials code check the wiki at http://ros.org/wiki/rospy_tutorials?distro=groovy
 This code has been taken from the ros_tutorials code (https://github.com/ros/ros_tutorials) commit [b5dc0600481163e611ee838103836e76200b0ef8](https://github.com/ros/ros_tutorials/commit/b5dc0600481163e611ee838103836e76200b0ef8).
 
 CROSS COMPILATION
