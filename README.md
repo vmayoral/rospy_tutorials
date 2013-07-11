@@ -3,7 +3,13 @@ rospy_tutorials
 
 ROS python API tutorials code (check the wiki at http://ros.org/wiki/rospy_tutorials?distro=groovy)
 
-This code has been taken from the ros_tutorials code (https://github.com/ros/ros_tutorials) commit b5dc0600481163e611ee838103836e76200b0ef8.
+This code has been taken from the ros_tutorials code (https://github.com/ros/ros_tutorials) commit [b5dc0600481163e611ee838103836e76200b0ef8](https://github.com/ros/ros_tutorials/commit/b5dc0600481163e611ee838103836e76200b0ef8).
+
+CROSS COMPILATION
+=================
+
+Recipes are available at https://github.com/vmayoral/beagle-ros/tree/master/recipes.
+
 
 USAGE
 =====
