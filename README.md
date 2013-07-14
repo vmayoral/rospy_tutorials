@@ -1,6 +1,12 @@
 rospy_tutorials
 ===============
 
+---------
+
+This repository shouldn't be used. Instead, refer to the rospy_tutorials official repository (https://github.com/ros/ros_tutorials/tree/hydro-devel/rospy_tutorials) and the recipe created for cross-compiling this code (https://github.com/vmayoral/beagle-ros/blob/master/recipes/ros-tutorials/rospy-tutorials_git.bb)
+
+---------
+
 This repository contains the rospy_tutorials code and the instructions to cross-compile this code to an embedded system using Angstrom.
 
 For information about the ROS python API tutorials code check the wiki at http://ros.org/wiki/rospy_tutorials?distro=groovy
